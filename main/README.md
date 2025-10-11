@@ -3,8 +3,8 @@
 This is the source code for implementing the paper `Fourier Analysis of Nerual Distinguishers`.
 
 
-
-├─anonymous_submission
+```
+├─main
 │
 └─source_code
     │  README.md
@@ -21,7 +21,7 @@ This is the source code for implementing the paper `Fourier Analysis of Nerual D
     │       
     └─example `(The example in CNF)`
             cnf.py
-
+```
 
 
 - source_code/core/FourierAlg.ipynb:
@@ -43,6 +43,7 @@ We present a didactic implementation, which serves as a simplified example of th
 dependency:
 
 numpy 2.3.0
+
 
 
 
